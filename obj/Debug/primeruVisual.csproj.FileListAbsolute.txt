@@ -1,0 +1,10 @@
+D:\Projects\primeruVisual\primeruVisual\bin\Debug\primeruVisual.exe.config
+D:\Projects\primeruVisual\bin\Debug\primeruVisual.exe.config
+D:\Projects\primeruVisual\bin\Debug\primeruVisual.exe
+D:\Projects\primeruVisual\bin\Debug\primeruVisual.pdb
+D:\Projects\primeruVisual\obj\Debug\primeruVisual.csprojResolveAssemblyReference.cache
+D:\Projects\primeruVisual\obj\Debug\primeruVisual.Form1.resources
+D:\Projects\primeruVisual\obj\Debug\primeruVisual.Properties.Resources.resources
+D:\Projects\primeruVisual\obj\Debug\primeruVisual.csproj.GenerateResource.Cache
+D:\Projects\primeruVisual\obj\Debug\primeruVisual.exe
+D:\Projects\primeruVisual\obj\Debug\primeruVisual.pdb

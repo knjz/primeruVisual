@@ -1,4 +1,4 @@
 primeruVisual
 =============
 
-myPrimeru
+myPrimeru for lessons
