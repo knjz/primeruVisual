@@ -16,5 +16,10 @@ namespace primeruVisual
         {
             InitializeComponent();
         }
+
+        private void label1_MouseHover(object sender, EventArgs e)
+        {
+            label1.Text = "Znaet";
+        }
     }
 }
